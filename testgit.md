@@ -81,17 +81,3 @@ Git - это программа для контроля версий.
 Для того, чтобы сравнить один коммит с другим, нужно выполнить команду:
 
     git diff <hash1> <hash2>
-
-ДЗ, описать каждую команду, после каждой команды коммит:
-
-    git commit
-    git commit  -m ""
-    git commit -a
-    git commit -am ""
-    git log
-    git log --oneline
-    git log --all
-    git log --oneline --all
-    git checkout <hash>
-    git diff
-    git diff <hash1> <hash2>
